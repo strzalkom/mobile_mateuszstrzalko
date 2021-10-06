@@ -1,0 +1,12 @@
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/bin/Debug/netstandard2.0/PhonewordApp.deps.json
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/bin/Debug/netstandard2.0/PhonewordApp.dll
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/bin/Debug/netstandard2.0/PhonewordApp.pdb
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.csprojAssemblyReference.cache
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.AssemblyInfoInputs.cache
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.AssemblyInfo.cs
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.csproj.CoreCompileInputs.cache
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.dll
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.pdb

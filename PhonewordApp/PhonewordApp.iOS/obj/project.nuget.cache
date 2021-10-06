@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SfgHITtcZ+QLeBXhXj+GiznrJE3NEeAFGoNRAjIcOoRvUTKywkCBCR7Jb6XwqBRsdUpaRlJwFdDdn8EvR763Dw==",
+  "success": true,
+  "projectFilePath": "/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp.iOS/PhonewordApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateuszstrzalko/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mateuszstrzalko/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mateuszstrzalko/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
