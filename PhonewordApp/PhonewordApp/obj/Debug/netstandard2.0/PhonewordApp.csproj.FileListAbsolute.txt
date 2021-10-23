@@ -10,3 +10,4 @@
 /Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.dll
 /Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/PhonewordApp.pdb
+/Users/mateuszstrzalko/RiderProjects/PhonewordApp/PhonewordApp/PhonewordApp/obj/Debug/netstandard2.0/OldMainPage.xaml.g.cs
